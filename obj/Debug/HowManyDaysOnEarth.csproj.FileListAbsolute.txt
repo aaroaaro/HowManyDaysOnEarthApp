@@ -1,0 +1,10 @@
+C:\Repo\HowManyDaysOnEarth\bin\Debug\HowManyDaysOnEarth.exe.config
+C:\Repo\HowManyDaysOnEarth\bin\Debug\HowManyDaysOnEarth.exe
+C:\Repo\HowManyDaysOnEarth\bin\Debug\HowManyDaysOnEarth.pdb
+C:\Repo\HowManyDaysOnEarth\obj\Debug\HowManyDaysOnEarth.csproj.AssemblyReference.cache
+C:\Repo\HowManyDaysOnEarth\obj\Debug\HowManyDaysOnEarth.Form1.resources
+C:\Repo\HowManyDaysOnEarth\obj\Debug\HowManyDaysOnEarth.Properties.Resources.resources
+C:\Repo\HowManyDaysOnEarth\obj\Debug\HowManyDaysOnEarth.csproj.GenerateResource.cache
+C:\Repo\HowManyDaysOnEarth\obj\Debug\HowManyDaysOnEarth.csproj.CoreCompileInputs.cache
+C:\Repo\HowManyDaysOnEarth\obj\Debug\HowManyDaysOnEarth.exe
+C:\Repo\HowManyDaysOnEarth\obj\Debug\HowManyDaysOnEarth.pdb
